@@ -27,7 +27,7 @@ namespace oep_dotnet
             panel2.Visible = false;
             panel4.Visible = true;
             //abc123 xyzpqra git seems to be great
-            //so  how you do it is mentioned here (view -> team explorer -> changes -> add what you did in comment -> commit all ->)
+            //so  how you do it is mentioned here (view -> team explorer -> changes -> add what you did in comment -> commit all and push)
             this.Close();
             Form1 f1 = new Form1();
         }
