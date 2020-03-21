@@ -26,7 +26,7 @@ namespace oep_dotnet
         {
             panel2.Visible = false;
             panel4.Visible = true;
-            //abc123 xyzpqra
+            //abc123 xyzpqra git seems to be great
             this.Close();
             Form1 f1 = new Form1();
         }
