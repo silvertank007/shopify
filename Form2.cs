@@ -26,6 +26,7 @@ namespace oep_dotnet
         {
             panel2.Visible = false;
             panel4.Visible = true;
+            //abc123 xyzpqra
             this.Close();
             Form1 f1 = new Form1();
         }
