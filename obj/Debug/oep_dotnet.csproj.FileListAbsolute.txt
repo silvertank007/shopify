@@ -1,0 +1,11 @@
+C:\Users\meetg\source\repos\oep_dotnet\bin\Debug\oep_dotnet.exe.config
+C:\Users\meetg\source\repos\oep_dotnet\bin\Debug\oep_dotnet.exe
+C:\Users\meetg\source\repos\oep_dotnet\bin\Debug\oep_dotnet.pdb
+C:\Users\meetg\source\repos\oep_dotnet\obj\Debug\oep_dotnet.Properties.Resources.resources
+C:\Users\meetg\source\repos\oep_dotnet\obj\Debug\oep_dotnet.csproj.GenerateResource.cache
+C:\Users\meetg\source\repos\oep_dotnet\obj\Debug\oep_dotnet.exe
+C:\Users\meetg\source\repos\oep_dotnet\obj\Debug\oep_dotnet.pdb
+C:\Users\meetg\source\repos\oep_dotnet\obj\Debug\oep_dotnet.Form1.resources
+C:\Users\meetg\source\repos\oep_dotnet\obj\Debug\oep_dotnet.product_usr.resources
+C:\Users\meetg\source\repos\oep_dotnet\obj\Debug\oep_dotnet.csprojAssemblyReference.cache
+C:\Users\meetg\source\repos\oep_dotnet\obj\Debug\oep_dotnet.Form2.resources
